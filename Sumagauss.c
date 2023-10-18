@@ -12,7 +12,7 @@ int main ()
         {
             suma=suma+i;
         }
-        printf ("El resultado de la suma de Gauss %d es %d\n", &numeroentero, &suma);  
+        printf ("El resultado de la suma de Gauss %d es %d\n", numeroentero, suma);  
     }
     else 
     {
